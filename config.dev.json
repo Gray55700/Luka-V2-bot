@@ -17,15 +17,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61553923074004"
+    "61550695203372"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "🌹luka bot🌹",
-  "prefix": "•",
+  "nickNameBot": "🌹BUGS BUNNIS🌹",
+  "prefix": "%",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -36,7 +36,7 @@
   "timeZone": "Asia/Ho_Chi_Minh",
   "credentials": {
     "gmailAccount": {
-      "email": "zeuszeno6@gmail.com",
+      "email": "christkenedy82@gmail.com",
       "clientId": "987698237742-1pb9m47r0clpscdipfm3sh19o8mffgjv.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04tTbQ4nQ52oTCgYIARAAGAQSNwF-L9IrhkpXGPToLXEmFnyAoXUQFyyuOyt-PUBkUXJLVqeul9lFCnYXC_XgVXmn2u28P9nZ_7E",
